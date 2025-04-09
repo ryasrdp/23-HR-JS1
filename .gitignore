@@ -264,3 +264,4 @@ $RECYCLE.BIN/
 jest_html_reporters.html
 junit.xml
 /jest_html_reporters/
+/jest-html-reporters-attach
