@@ -261,3 +261,6 @@ $RECYCLE.BIN/
 /.husky
 
 /coverage/
+jest_html_reporters.html
+junit.xml
+/jest_html_reporters/
